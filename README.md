@@ -24,5 +24,3 @@
 <p>&nbsp; <img style="max-width: 140px" align="center" src="https://github-readme-stats.vercel.app/api?username=camilodw&show_icons=true&locale=en" alt="camilodw" /></p>
 
 <p><img style="min-width: 100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camilodw&" alt="camilodw" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camilodwcamilodw" alt="camilodw" /></a> </p>
