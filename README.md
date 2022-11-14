@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **camilo.oyarzodw@gmail.com**
 
-- 📄 Know about my experiences [https://wgetdc.github.io/wgetdc-page/](https://wgetdc.github.io/wgetdc-page/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/camilo-oyarzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="camilo antonio oyarzo gatica" height="30" width="40" /></a>
